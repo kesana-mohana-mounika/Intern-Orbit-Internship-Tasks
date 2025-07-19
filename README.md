@@ -40,7 +40,7 @@ This project enables a deeper understanding of the **factors influencing movie r
 ## 🎥 Project Demo
 
 🔗 **Watch the video demonstration on LinkedIn:**  
-[Click here to view the demo](https://www.linkedin.com/posts/your-username/your-video-id)
+[Click here to view the demo](https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_internorbit-machinelearning-datascience-activity-7352229401691885569-ewKS?utm_source=share&utm_medium=member_android&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE)
 
 
 ---
